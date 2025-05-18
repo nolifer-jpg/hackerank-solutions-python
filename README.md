@@ -1,18 +1,20 @@
-# 🧠 Problem Solving – Python (HackerRank)
+# 🧠 HackerRank Python Problem Solving
 
-This repository contains my solutions to beginner-level Python problems from HackerRank, organized by topic.
+This repository tracks my daily progress solving Python problems on [HackerRank](https://www.hackerrank.com/).
 
-## 📂 Folder Structure
+## 📂 Structure
 
-- `easy/` – Basic problems using input/output, conditionals, loops
-- `strings/` – String manipulation tasks
-- `functions/` – Function-based problems
-- `notes/` – Weekly progress and notes
+- `easy/` – Basics: arithmetic, loops, conditions
+- `strings/` – Manipulation, splitting, formatting
+- `functions/` – Reusable logic and validation
+- `notes/` – Weekly problem lists and checkboxes
 
-## 🏁 Goal
+## ✅ Weekly Goal
 
-Solve at least 10–15 problems per week, building confidence and fluency in Python problem-solving.
+Solve 10+ problems per week and push code with clean formatting + comments.
 
-## 🌱 Next Up
+## ✍️ Motivation
 
-Intermediate level problems: lists, dictionaries, sets, recursion, sorting, etc.
+Building fluency in Python and preparing for coding interviews (FAANG level) by solving logic-focused challenges.
+
+---
