@@ -5,6 +5,7 @@ This repository tracks my daily progress solving Python problems on [HackerRank]
 ## 📂 Structure
 
 - `easy/` – Basics: arithmetic, loops, conditions
+- `loops and conditionals/` – Nested loops, conditionals
 - `strings/` – Manipulation, splitting, formatting
 - `functions/` – Reusable logic and validation
 - `notes/` – Weekly problem lists and checkboxes
